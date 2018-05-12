@@ -20,4 +20,12 @@
 
 
 
-wait  for  commit version dir ./version/v*.doc
+wait  for  commit version dir ./version/v*.doc  		done
+
+提交安卓源码		18:31 2018/5/12				done
+
+提交web源码		18:31 2018/5/12				done
+
+
+
+tip web样式因为时间紧，有些绝对定位基于自己的mac为准，出现偏差请自行调整
